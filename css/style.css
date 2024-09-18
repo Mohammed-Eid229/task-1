@@ -1,0 +1,51 @@
+body {
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 30%;
+    height: 320px;
+}
+
+h1 {
+    width: 30%;
+    height: 35px;
+    color: rgb(6, 63, 109);
+    background-color: rgb(18, 19, 18);
+    border-radius: 10px;
+
+}
+
+p {
+    width: 30%;
+    height: 30px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+}
+
+iframe {
+    width: 30%;
+    height: 320px;
+    border-radius: 49%;
+}
+
+.text {
+    width: 20%;
+    border-radius: 10px;
+    height: 30px;
+}
+
+button {
+    border-radius: 10px;
+    width: 20%;
+    height: 37px;
+    background-color: rgb(97, 19, 161);
+    color: aliceblue;
+    background-color: rgb(7 56 97);
+}
+
+a {
+    font-size: 30px;
+    color: #0e4b8d;
+}
